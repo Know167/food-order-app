@@ -1,0 +1,18 @@
+.totalAmtLabel{
+    font-weight: 400;
+    margin-right: 20px;
+}
+.totalAmt{
+    
+    font-weight: bolder;
+}
+
+.orderBtn{
+    width: 80px;
+    margin-left: 80%;
+}
+
+.closeBtn{
+    background-color: #60183c;
+    color: aliceblue;
+}
